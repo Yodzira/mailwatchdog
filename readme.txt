@@ -21,6 +21,13 @@ wp_mail fails silently. Orders, password resets and even WordPress core alerts j
 * works on top of any SMTP setup — Mail Watchdog doesn't send, it watches
 * automatic 30-day retention, clean uninstall
 
+== Pro Version ==
+
+Pro adds automation, reports and integrations on top of the free version
+(one license = one site, 12 months of updates):
+
+https://yodsira.duckdns.org/buy/mail-watchdog
+
 == Installation ==
 
 1. Install and activate.
