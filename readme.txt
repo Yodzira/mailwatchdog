@@ -1,5 +1,5 @@
 === Mail Watchdog ===
-Contributors: yodzira
+Contributors: yodsira
 Tags: email, wp_mail, log, notification, smtp
 Requires at least: 6.0
 Tested up to: 7.1
