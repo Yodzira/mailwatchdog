@@ -26,7 +26,7 @@ wp_mail fails silently. Orders, password resets and even WordPress core alerts j
 Pro adds automation, reports and integrations on top of the free version
 (one license = one site, 12 months of updates):
 
-https://yodsira.duckdns.org/buy/mail-watchdog
+https://yodsira.com/buy/mail-watchdog
 
 == Installation ==
 
